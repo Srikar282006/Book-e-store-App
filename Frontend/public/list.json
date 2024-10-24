@@ -1,0 +1,107 @@
+[
+    {
+        "id":1,
+        "name":"Story back",
+        "title":"Lorem ipsum wbiu",
+        "price":0,
+        "category":"Free",
+        "image": "https://img.freepik.com/premium-photo/stack-colorful-books_1207614-22548.jpg?w=740"
+    },
+    {
+        "id":2,
+        "name":"Naruto",
+        "title":"Lorem ipsum wbiu",
+        "price":100,
+        "category":"Free",
+        "image": "https://img.freepik.com/premium-photo/stack-colorful-books_1207614-22548.jpg?w=740"
+    },
+    {
+        "id":3,
+        "name":"One piece",
+        "title":"Lorem ipsum wbiu",
+        "price":500,
+        "category":"Free",
+        "image": "https://img.freepik.com/premium-photo/stack-colorful-books_1207614-22548.jpg?w=740"
+    },
+    {
+        "id":4,
+        "name":"Story back",
+        "title":"Lorem ipsum wbiu",
+        "price":0,
+        "category":"Free",
+        "image": "https://img.freepik.com/premium-photo/stack-colorful-books_1207614-22548.jpg?w=740"
+    },
+    {
+        "id":5,
+        "name":"Story back",
+        "title":"Lorem ipsum wbiu",
+        "price":0,
+        "category":"Free",
+        "image": "https://img.freepik.com/premium-photo/stack-colorful-books_1207614-22548.jpg?w=740"
+    },
+    {
+        "id":6,
+        "name":"Story back",
+        "title":"Lorem ipsum wbiu",
+        "price":0,
+        "category":"Free",
+        "image": "https://img.freepik.com/premium-photo/stack-colorful-books_1207614-22548.jpg?w=740"
+    },
+    {
+        "id":7,
+        "name":"Story back",
+        "title":"Lorem ipsum wbiu",
+        "price":0,
+        "category":"Free",
+        "image": "https://img.freepik.com/premium-photo/stack-colorful-books_1207614-22548.jpg?w=740"
+    },
+    {
+        "id":8,
+        "name":"Story back",
+        "title":"Lorem ipsum wbiu",
+        "price":0,
+        "category":"Free",
+        "image": "https://img.freepik.com/premium-photo/stack-colorful-books_1207614-22548.jpg?w=740"
+    },
+    {
+        "id":9,
+        "name":"Story back",
+        "title":"Lorem ipsum wbiu",
+        "price":0,
+        "category":"Free",
+        "image": "https://img.freepik.com/premium-photo/stack-colorful-books_1207614-22548.jpg?w=740"
+    },
+    {
+        "id":10,
+        "name":"Story back",
+        "title":"Lorem ipsum wbiu",
+        "price":0,
+        "category":"Free",
+        "image": "https://img.freepik.com/premium-photo/stack-colorful-books_1207614-22548.jpg?w=740"
+    },
+    {
+        "id":11,
+        "name":"Story back",
+        "title":"Lorem ipsum wbiu",
+        "price":0,
+        "category":"Free",
+        "image": "https://img.freepik.com/premium-photo/stack-colorful-books_1207614-22548.jpg?w=740"
+    },
+    {
+        "id":12,
+        "name":"Story back",
+        "title":"Lorem ipsum wbiu",
+        "price":0,
+        "category":"Free",
+        "image": "https://img.freepik.com/premium-photo/stack-colorful-books_1207614-22548.jpg?w=740"
+    },
+    {
+        "id":13,
+        "name":"Story back",
+        "title":"Lorem ipsum wbiu",
+        "price":0,
+        "category":"Paid",
+        "image": "https://img.freepik.com/premium-photo/stack-colorful-books_1207614-22548.jpg?w=740"
+    }
+
+]
